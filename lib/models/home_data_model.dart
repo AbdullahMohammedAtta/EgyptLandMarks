@@ -1,4 +1,4 @@
-class HomeLandMarksModel {
+class HomeLandMarksModel{
 
   final int page;
   final int totalItems;
