@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
           listener: (context, state) {},
           builder: (context, state) {
             bool isDark = CacheHelper.getData(key:'isDark')?? true;
-            defaultColor = Color(CacheHelper.getData(key: 'color')?? Colors.orange.value) ;// CacheHelper.getData(key: 'color')?? Colors.red;
+            defaultColor = Color(CacheHelper.getData(key: 'color')?? Colors.orange.value) ;//CacheHelper.getData(key: 'color')?? Colors.red;
             return MaterialApp(
               debugShowCheckedModeBanner: false,
               darkTheme: darkTheme,
