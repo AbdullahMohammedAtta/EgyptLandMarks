@@ -12,18 +12,19 @@
 ---
 
 ## 🎬 Application Demo Video
-
-<!-- إذا قمت بتحويل الفيديو إلى GIF واستخدامه (تأكد من تعديل المسار) -->
+<!-- 
+<!-- إذا قمت بتحويل الفيديو إلى GIF واستخدامه (تأكد من تعديل المسار) 
 <p align="center">
   <img src="assets/videos/demo.gif" alt="Egyptian Landmarks Demo" width="700"/>
 </p>
 
 <!-- أو إذا أردت استخدام فيديو MP4 مباشر تم رفعه على GitHub -->
-<!-- 
+
+
 <p align="center">
-  <video src="https://github.com/USERNAME/REPOSITORY/assets/VIDEO_ID.mp4" controls width="700"></video>
+  <video src="https://github.com/AbdullahMohammedAtta/EgyptLandMarks/Assets/egypt_guid.mp4" controls width="700"></video>
 </p>
--->
+
 
 ---
 
