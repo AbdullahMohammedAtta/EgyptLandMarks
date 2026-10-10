@@ -11,6 +11,22 @@
 
 ---
 
+## 🎬 Application Demo Video
+
+<!-- إذا قمت بتحويل الفيديو إلى GIF واستخدامه (تأكد من تعديل المسار) -->
+<p align="center">
+  <img src="assets/videos/demo.gif" alt="Egyptian Landmarks Demo" width="700"/>
+</p>
+
+<!-- أو إذا أردت استخدام فيديو MP4 مباشر تم رفعه على GitHub -->
+<!-- 
+<p align="center">
+  <video src="https://github.com/USERNAME/REPOSITORY/assets/VIDEO_ID.mp4" controls width="700"></video>
+</p>
+-->
+
+---
+
 ## 📌 Table of Contents
 - [Overview](#-overview)
 - [Key Features](#-key-features)
@@ -61,19 +77,3 @@
 - **Backend Services:** RESTful APIs, Firebase
 - **AI & Computer Vision:** Custom Trained NLP Chatbot & Image Classification Models
 - **Database:** Cloud Database & Local Storage
-
----
-
-## 📂 Project Structure
-
-```text
-lib/
-├── core/                   # Utilities, Themes, Constants, Network Client
-│   ├── theme/              # App Color Themes (Light/Dark)
-│   └── network/            # REST API & Firebase configuration
-├── features/
-│   ├── home/               # Discovery & Search UI/Logic
-│   ├── landmark_detail/    # Ratings, Reviews & Map Integration
-│   ├── ai_chatbot/         # AI Assistant Chat Interface
-│   └── image_recognition/  # Camera & Visual Recognition Engine
-└── main.dart               # Entry point
