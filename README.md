@@ -11,11 +11,14 @@
 
 ---
 
-
 ## 🎬 Application Demo Video
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/AbdullahMohammedAtta/EgyptLandMarks/main/Assets/Images/egypt_guid.mp4" controls width="700"></video>
+  <a href="https://youtube.com/shorts/E9-rCRgU6Lo" target="_blank">
+    <img src="Assets/Images/logo.jpeg" width="300" alt="Watch Demo Video"/>
+    <br/>
+    <b>▶️Watch Demo Video On Youtube</b>
+  </a>
 </p>
 
 ---
