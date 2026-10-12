@@ -23,16 +23,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-* [Overview](#-overview)
-* [Key Features](#-key-features)
-* [App Screenshots & Visual Tour](#-app-screenshots--visual-tour)
-* [Tech Stack & Architecture](#-tech-stack--architecture)
-* [Getting Started](#-getting-started)
-* [Author & Contact](#-author--contact)
-
----
 
 ## 🌟 Overview
 
@@ -121,7 +111,6 @@ Explore the application's main screens and features below.
 | **Flutter**            | Cross-platform mobile application development |
 | **Dart**               | Main programming language                     |
 | **Bloc / Cubit**       | State management                              |
-| **Clean Architecture** | Separation of application responsibilities    |
 | **RESTful APIs**       | Communication with backend services           |
 | **Firebase**           | Cloud services and application data           |
 | **AI & NLP**           | Tourism chatbot and intelligent assistance    |
@@ -145,7 +134,7 @@ Explore the application's main screens and features below.
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/AbdullahMohammedAtta/EgyptLandMarks
 ```
 
 **2. Navigate to the project directory**
