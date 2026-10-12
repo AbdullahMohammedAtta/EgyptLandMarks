@@ -4,7 +4,6 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)](https://dart.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)](https://firebase.google.com/)
 [![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 > **Graduation Project | Grade: A+ 🏆**
 >
@@ -30,7 +29,6 @@
 * [Key Features](#-key-features)
 * [App Screenshots & Visual Tour](#-app-screenshots--visual-tour)
 * [Tech Stack & Architecture](#-tech-stack--architecture)
-* [Project Structure](#-project-structure)
 * [Getting Started](#-getting-started)
 * [Author & Contact](#-author--contact)
 
@@ -66,7 +64,8 @@ Explore the application's main screens and features below.
 ### 🏠 Home & Discovery
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="220" alt="Home and Discovery Screen"/>
+    <img src="Assets/Images/onBoarding.png" width="220" alt="Home and oBoarding Screen"/>
+  <img src="Assets/Images/home.png" width="220" alt="Home and Discovery Screen"/>
 </p>
 
 <p align="center">
@@ -78,9 +77,9 @@ Explore the application's main screens and features below.
 ### 🤖 AI-Powered Features
 
 <p align="center">
-  <img src="assets/screenshots/recognition.png" width="220" alt="AI Landmark Recognition Screen"/>
+  <img src="Assets/Images/recognition.png" width="220" alt="AI Landmark Recognition Screen"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/chatbot.png" width="220" alt="AI Tourism Chatbot Screen"/>
+  <img src="Assets/Images/chatbot.png" width="220" alt="AI Tourism Chatbot Screen"/>
 </p>
 
 <p align="center">
@@ -92,9 +91,9 @@ Explore the application's main screens and features below.
 ### 🗺️ Interactive Maps & Landmark Details
 
 <p align="center">
-  <img src="assets/screenshots/map.png" width="220" alt="Interactive Map and Navigation Screen"/>
+  <img src="Assets/Images/map.png" width="220" alt="Interactive Map and Navigation Screen"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/screenshots/details.png" width="220" alt="Landmark Details and Reviews Screen"/>
+  <img src="Assets/Images/details.png" width="220" alt="Landmark Details and Reviews Screen"/>
 </p>
 
 <p align="center">
@@ -106,7 +105,7 @@ Explore the application's main screens and features below.
 ### 🎨 Dark Mode & Settings
 
 <p align="center">
-  <img src="assets/screenshots/theme.png" width="220" alt="Dark Mode and Settings Screen"/>
+  <img src="Assets/Images/theme.png" width="220" alt="Dark Mode and Settings Screen"/>
 </p>
 
 <p align="center">
@@ -129,34 +128,6 @@ Explore the application's main screens and features below.
 | **Computer Vision**    | Image-based landmark recognition              |
 | **Maps Integration**   | Landmark locations and navigation             |
 | **Local Storage**      | Saving relevant preferences and local data    |
-
----
-
-## 📂 Project Structure
-
-```text
-Egyptian-Landmarks/
-├── assets/
-│   └── screenshots/
-│       ├── home.png
-│       ├── recognition.png
-│       ├── chatbot.png
-│       ├── map.png
-│       ├── details.png
-│       └── theme.png
-├── lib/
-│   ├── core/
-│   ├── data/
-│   ├── domain/
-│   └── presentation/
-├── Assets/
-│   └── Images/
-│       └── logo.jpeg
-├── README.md
-└── LICENSE
-```
-
-> **Note:** The project structure above is illustrative. Adjust it to match the actual folders and files in your repository.
 
 ---
 
@@ -208,11 +179,6 @@ flutter run
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 <p align="center">
   <strong>🇪🇬 Built with Flutter to showcase the beauty and history of Egypt.</strong>
